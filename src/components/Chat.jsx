@@ -28,7 +28,7 @@ const Chat = () => {
                     </div>
                 </div>
                 <div className="chat-header">
-                    Anakin
+                    Dave
                     <time className="text-xs opacity-50">12:46</time>
                 </div>
                 <div className="chat-bubble">I hate you!</div>
